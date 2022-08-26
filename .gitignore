@@ -1,0 +1,13 @@
+shaderpacks/
+saves/
+patchouli_books/
+logs/
+profileImage/
+journeymap/
+local/
+downloads/
+crash-reports/
+.curseclient
+patchouli_data.json
+usercache.json
+usernamecache.json

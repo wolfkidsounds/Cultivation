@@ -1,0 +1,15 @@
+{
+  general: {
+    # Whether to enable this library's provided commands as regular commands.
+    enableGlobalLibCommands: false
+    # The minimum error level to display in the error menu.
+    # Allowed Values: WARN, ERROR, FATAL
+    errorLevel: ERROR
+    # Whether to wrap text on the error detail page. Hit W or space to toggle in game.
+    wrapText: true
+    # How many lines for the display command to render in the chat before opening a
+    # dedicated screen. Set this to 0 to always open a screen.
+    # Range: 0 ~ 100
+    displayLength: 35
+  }
+}

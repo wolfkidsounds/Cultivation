@@ -1,0 +1,21 @@
+{
+    "type":"immersiveengineering:cloche",
+    "results":[
+        {
+            "item":"endercrop:ender_seeds"
+        }],
+    "input":
+        {
+            "item":"endercrop:ender_seeds"
+        },
+    "soil":
+        {
+            "item":"endercrop:tilled_end_stone"
+        },
+    "time":480,
+    "render":
+        {
+            "type":"crop",
+            "block":"endercrop:ender_seeds"
+        }
+}
